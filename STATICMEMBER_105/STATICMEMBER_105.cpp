@@ -13,7 +13,8 @@ public:
     mahasiswa(string pnama) :nama(pnama) { setId(); }
 };
 
+int mahasiswa::nim = 0;
+
 int main()
 {
-    std::cout << "Hello World!\n";
 }
