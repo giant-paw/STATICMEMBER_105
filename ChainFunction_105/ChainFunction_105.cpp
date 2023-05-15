@@ -9,6 +9,9 @@ public :
 		this->judul = judul;
 		return *this;				// Chain function
 	}
+	string getJudul() {
+		return this->judul;
+	}
 };
 
 int main()
