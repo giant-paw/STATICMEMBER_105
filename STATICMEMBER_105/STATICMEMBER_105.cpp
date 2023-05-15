@@ -31,4 +31,11 @@ int main()
     mahasiswa mhs2("Joko Mur-Baut");
     mahasiswa mhs3("Zachran Busi");
     mahasiswa mhs4("Ichsan Kopling");
+
+    mhs1.printAll();
+    mhs2.printAll();
+    mhs3.printAll();
+    mhs4.printAll();
+
+    return 0;
 }
