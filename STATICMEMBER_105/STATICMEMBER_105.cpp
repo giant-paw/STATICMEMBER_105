@@ -27,4 +27,8 @@ void mahasiswa::printAll() {
 
 int main()
 {
+    mahasiswa mhs1("Daffa Putradika");
+    mahasiswa mhs2("Joko Mur-Baut");
+    mahasiswa mhs3("Zachran Busi");
+    mahasiswa mhs4("Ichsan Kopling");
 }
